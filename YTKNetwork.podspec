@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.name         = "YTKNetwork"
   s.version      = "0.5.0"
   s.summary      = "YTKNetwork is a high level request util based on AFNetworking."
-  s.homepage     = "https://github.com/yuantiku/YTKNetwork"
+  s.homepage     = "https://github.com/CoderShmily/YTKNetwork"
   s.license      = "MIT"
   s.author             = {
                           "tangqiao" => "tangqiao@fenbi.com",
